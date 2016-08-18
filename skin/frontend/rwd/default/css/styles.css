@@ -912,7 +912,7 @@ body:not(.customer-account) .block:first-child .block-title {
 .cart-table .product-cart-actions .button,
 #co-shipping-method-form .buttons-set .button,
 .footer .button {
-  background: #3399cc;
+  background: red;
   display: inline-block;
   padding: 7px 15px;
   border: 0;
