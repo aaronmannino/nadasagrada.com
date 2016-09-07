@@ -8686,7 +8686,7 @@ div.paypal-logo span > img {
   background-color: #2e8ab8;
 }
 .slideshow-pager span.cycle-pager-active:before {
-  background-color: #297aa3;
+  background-color: red;
 }
 .slideshow-pager > * {
   cursor: pointer;
