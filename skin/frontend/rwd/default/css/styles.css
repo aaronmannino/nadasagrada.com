@@ -3425,8 +3425,8 @@ a.skip-link {
   display: block;
   color: black;
   line-height: 30px;
-  font-family: "Rosewood Std", "Helvetica Neue", Verdana, Arial, sans-serif;
-  font-size: 40px;
+  font-family: "Helvetica Neue", Verdana, Arial, sans-serif;
+  font-size: 30px;
 }
 .nav-primary li {
   position: relative;
