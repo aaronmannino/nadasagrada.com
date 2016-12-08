@@ -3444,6 +3444,14 @@ a.skip-link {
   text-transform: uppercase;
 }
 
+a.level1 {
+    font-size:25px;
+}
+
+a.level2 {
+    font-size: 20px;
+}
+
 /* ============================================ *
  * Small Viewports - Accordion Style Menu
  * ============================================ */
