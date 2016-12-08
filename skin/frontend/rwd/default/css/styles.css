@@ -4177,6 +4177,7 @@ p.product-name a:hover {
 
 .products-grid .product-name,
 .products-list .product-name {
+  text-transform: none;
   margin-bottom: 5px;
   font-size: 14px;
   font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
