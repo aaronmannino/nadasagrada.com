@@ -39,8 +39,8 @@
 //]]>
 </script>
 <![endif]-->
-<?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('zone_global_css')->toHtml() ?>
 <?php echo $this->getCssJsHtml() ?>
 <?php echo $this->getChildHtml() ?>
 <?php echo $this->helper('core/js')->getTranslatorScript() ?>
 <?php echo $this->getIncludes() ?>
+<?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('zone_global_css')->toHtml() ?>
